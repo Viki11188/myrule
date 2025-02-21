@@ -1,0 +1,55 @@
+<opml version="2.0">
+  <head>
+    <title>时政与经济订阅源</title>
+  </head>
+  <body>
+    <outline text="时政" type="category">
+      <outline text="BBC News" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml"/>
+      <outline text="Reuters - Politics" xmlUrl="https://feeds.reuters.com/reuters/UKPoliticsNews"/>
+      <outline text="The Guardian - Politics" xmlUrl="https://www.theguardian.com/world/rss"/>
+      <outline text="France 24 - Politics" xmlUrl="https://www.france24.com/en/rss"/>
+      <outline text="Al Jazeera - Politics" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml"/>
+      <outline text="The Washington Post" xmlUrl="https://www.washingtonpost.com/rss/feed.xml"/>
+      <outline text="The Independent - Politics" xmlUrl="https://www.independent.co.uk/news/world/rss"/>
+      <outline text="Politico" xmlUrl="https://www.politico.com/rss/politics.xml"/>
+      <outline text="CBC News (Canada)" xmlUrl="https://www.cbc.ca/cmlink/rss-world"/>
+      <outline text="Deutsche Welle (Germany)" xmlUrl="https://rss.dw.com/rdf/rss-en-all"/>
+    </outline>
+    <outline text="经济" type="category">
+      <outline text="The Economist" xmlUrl="https://www.economist.com/feeds/rss"/>
+      <outline text="Bloomberg - Economy" xmlUrl="https://www.bloomberg.com/feed/podcast/economics.xml"/>
+      <outline text="Financial Times" xmlUrl="https://www.ft.com/?format=rss"/>
+      <outline text="CNBC - Economy" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html"/>
+      <outline text="Reuters - Economic News" xmlUrl="https://feeds.reuters.com/reuters/businessNews"/>
+      <outline text="Wall Street Journal" xmlUrl="https://www.wsj.com/xml/rss/3_7014.xml"/>
+      <outline text="MarketWatch" xmlUrl="https://www.marketwatch.com/rss/topstories"/>
+      <outline text="Business Insider" xmlUrl="https://www.businessinsider.com/rss"/>
+      <outline text="The Guardian - Business" xmlUrl="https://www.theguardian.com/business/rss"/>
+      <outline text="Investing.com" xmlUrl="https://www.investing.com/rss/news.rss"/>
+    </outline>
+    <outline text="国际经济与金融" type="category">
+      <outline text="World Bank - Economics" xmlUrl="http://www.worldbank.org/en/news/all?format=rss"/>
+      <outline text="International Monetary Fund (IMF)" xmlUrl="https://www.imf.org/en/News/rss"/>
+      <outline text="OECD - Economic Outlook" xmlUrl="https://www.oecd.org/rss/economic-outlook.xml"/>
+      <outline text="Bank of International Settlements (BIS)" xmlUrl="https://www.bis.org/rss/main.xml"/>
+      <outline text="The Financial Times - World Economy" xmlUrl="https://www.ft.com/world/economy?format=rss"/>
+      <outline text="The World Bank Group - Development News" xmlUrl="https://www.worldbank.org/en/news/all?format=rss"/>
+      <outline text="Asia Development Bank (ADB)" xmlUrl="https://www.adb.org/rss/all-news"/>
+      <outline text="IMF Direct" xmlUrl="https://blogs.imf.org/feed/"/>
+      <outline text="Global Economic Monitor (World Bank)" xmlUrl="https://www.worldbank.org/en/research/working-papers?format=rss"/>
+      <outline text="BIS Quarterly Review" xmlUrl="https://www.bis.org/publ/qtrxml.xml"/>
+    </outline>
+    <outline text="其他国家媒体" type="category">
+      <outline text="CBC News (Canada)" xmlUrl="https://www.cbc.ca/cmlink/rss-world"/>
+      <outline text="Deutsche Welle (Germany)" xmlUrl="https://rss.dw.com/rdf/rss-en-all"/>
+      <outline text="The Sydney Morning Herald (Australia)" xmlUrl="https://www.smh.com.au/rss/feed.xml"/>
+      <outline text="Le Monde (France)" xmlUrl="https://www.lemonde.fr/rss/en_continental.xml"/>
+      <outline text="El País (Spain)" xmlUrl="https://ep00.epimg.net/rss/elpais/portada.xml"/>
+      <outline text="The Globe and Mail (Canada)" xmlUrl="https://www.theglobeandmail.com/rss"/>
+      <outline text="The Age (Australia)" xmlUrl="https://www.theage.com.au/rss/feed.xml"/>
+      <outline text="The Times (UK)" xmlUrl="https://www.thetimes.co.uk/rss"/>
+      <outline text="La Vanguardia (Spain)" xmlUrl="https://www.lavanguardia.com/mvc/feed/rss"/>
+      <outline text="The National (UAE)" xmlUrl="https://www.thenationalnews.com/rss"/>
+    </outline>
+  </body>
+</opml>

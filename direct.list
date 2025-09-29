@@ -2,7 +2,9 @@
 #SRC-IP-CIDR,192.168.5.150/32
 #SRC-IP-CIDR,192.168.5.180/32
 DOMAIN-SUFFIX,myzwq.cn
-
+DOMAIN,connect.rom.miui.com
+DOMAIN-SUFFIX,rom.miui.com
+DOMAIN-KEYWORD,miui,DIRECT
 
 
 # 域名后缀匹配

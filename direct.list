@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,myzwq.cn
 DOMAIN,connect.rom.miui.com
 DOMAIN-SUFFIX,rom.miui.com
 DOMAIN-KEYWORD,miui
-DOMAIN,connectivitycheck.gstatic.com
+
 
 # 域名后缀匹配
 #DOMAIN-SUFFIX,baidu.com

@@ -2,8 +2,8 @@
 #SRC-IP-CIDR,192.168.5.150/32
 #SRC-IP-CIDR,192.168.5.180/32
 DOMAIN-SUFFIX,myzwq.cn
-DOMAIN,canghaitv.comcanghaitv.com
-DOMAIN-SUFFIX,comcanghaitv.com
+DOMAIN-SUFFIX,canghaitv.com
+#DOMAIN,canghaitv.comcanghaitv.com
 #DOMAIN-KEYWORD,miui
 
 

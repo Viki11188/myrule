@@ -2,11 +2,11 @@
 #SRC-IP-CIDR,192.168.5.150/32
 #SRC-IP-CIDR,192.168.5.180/32
 DOMAIN-SUFFIX,myzwq.cn
-DOMAIN,connect.rom.miui.com
-DOMAIN-SUFFIX,rom.miui.com
+DOMAIN,canghaitv.comcanghaitv.com
+DOMAIN-SUFFIX,comcanghaitv.com
 #DOMAIN-KEYWORD,miui
-#DOMAIN,time.android.com
-#DOMAIN,ntp1.aliyun.com
+
+
 
 # 域名后缀匹配
 #DOMAIN-SUFFIX,baidu.com

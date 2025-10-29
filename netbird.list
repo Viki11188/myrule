@@ -3,3 +3,4 @@ DOMAIN-SUFFIX,api.netbird.io
 DOMAIN-SUFFIX,stun.netbird.io
 DOMAIN-SUFFIX,signal.netbird.io
 DOMAIN-SUFFIX,turn.netbird.io
+DOMAIN-KEYWORD,netbird

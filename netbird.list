@@ -5,3 +5,5 @@ DOMAIN-SUFFIX,signal.netbird.io
 DOMAIN-SUFFIX,turn.netbird.io
 DOMAIN-KEYWORD,netbird
 DOMAIN-SUFFIX,ee.cmewaie.org
+PROCESS-NAME,netbird
+

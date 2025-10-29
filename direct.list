@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,canghaitv.com
 #DOMAIN,canghaitv.comcanghaitv.com
 #DOMAIN-KEYWORD,miui
 
+# netbird
+DOMAIN-SUFFIX,relay.netbird.io
+
 
 
 

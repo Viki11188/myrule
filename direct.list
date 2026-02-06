@@ -6,13 +6,17 @@ DOMAIN-SUFFIX,canghaitv.com
 DOMAIN-KEYWORD,188766.xyz
 DOMAIN-SUFFIX,epg.iill.top
 DOMAIN-SUFFIX,hls.iill.top
-DOMAIN-SUFFIX,yang-1989.eu.org
 #DOMAIN-KEYWORD,iill
+DOMAIN-SUFFIX,yang-1989.eu.org
 DOMAIN-KEYWORD,catvod
 #DOMAIN,canghaitv.comcanghaitv.com
 #DOMAIN-KEYWORD,miui
 
-
+#steamcdn
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamcontent.com
 
 
 # 域名后缀匹配
